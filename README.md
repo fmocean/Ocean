@@ -1,5 +1,4 @@
-# hello-world
-Hi Humans!
+# Ocean
 
-Ocean here, I like dash and dash
-See you not for mind :)
+Full name: Farhan Mahmud Ocean
+Section: NAA
